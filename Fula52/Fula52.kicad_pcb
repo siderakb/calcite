@@ -6,7 +6,7 @@
 
   (paper "A4")
   (title_block
-    (title "Fula52 Keyboard")
+    (title "Calcite52 Keyboard")
     (rev "1.0")
     (comment 1 "MIT License (Open source hardware)")
   )
