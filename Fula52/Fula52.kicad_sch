@@ -1130,7 +1130,7 @@
 
   (no_connect (at 58.42 68.58) (uuid 06ef1d5f-d3fe-4e8e-9e18-9d4281134d35))
   (no_connect (at 121.92 54.61) (uuid 42bbb9f3-34b0-46b8-996a-24ac8a0f7f85))
-  (no_connect (at 147.32 59.69) (uuid 42bbb9f3-34b0-46b8-996a-24ac8a0f7f85))
+  (no_connect (at 147.32 59.69) (uuid 42bbb9f3-34b0-46b8-996a-24ac8a0f7f86))
   (no_connect (at 58.42 66.04) (uuid 7a4afc5b-b4c9-456a-b4f0-c6d265ac176d))
 
   (wire (pts (xy 62.23 118.11) (xy 69.85 118.11))
@@ -1387,22 +1387,6 @@
     (pin "1" (uuid f14af6e2-2bdc-4a73-ad4d-c9cf6bb624e4))
   )
 
-  (symbol (lib_id "power:GND") (at 252.73 60.96 0) (unit 1)
-    (in_bom yes) (on_board yes)
-    (uuid 2a64dcda-edcc-40e4-8e7c-d368b6df665f)
-    (property "Reference" "#PWR010" (id 0) (at 252.73 67.31 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Value" "GND" (id 1) (at 252.73 64.77 0))
-    (property "Footprint" "" (id 2) (at 252.73 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "" (id 3) (at 252.73 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid fa9d269f-7d92-4fea-af89-59c86a6de370))
-  )
-
   (symbol (lib_id "power:GND") (at 207.01 60.96 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 2d9f6bb8-cf99-4eca-8ef2-54c13cd895a8)
@@ -1449,22 +1433,6 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 9b27fe12-c15b-43fd-b8de-630bc4879739))
-  )
-
-  (symbol (lib_id "Connector:TestPoint") (at 236.22 50.8 270) (unit 1)
-    (in_bom no) (on_board yes)
-    (uuid 4d64b221-2006-4be2-8f3e-495e244ba60d)
-    (property "Reference" "TP1" (id 0) (at 242.57 50.8 90))
-    (property "Value" "TestPoint" (id 1) (at 245.11 49.53 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm" (id 2) (at 236.22 55.88 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 236.22 55.88 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid fbf79b9c-a418-4213-8cbd-49b7169611df))
   )
 
   (symbol (lib_id "Mechanical:MountingHole") (at 154.94 194.31 0) (unit 1)
@@ -1905,22 +1873,6 @@
     (pin "1" (uuid ee2c702a-5d6d-409d-8225-3e5a1c59b03e))
   )
 
-  (symbol (lib_id "Connector:TestPoint") (at 252.73 60.96 0) (unit 1)
-    (in_bom no) (on_board yes)
-    (uuid dcdee9f3-7399-4d27-a1b1-8fda0194cb65)
-    (property "Reference" "TP4" (id 0) (at 252.73 55.88 0))
-    (property "Value" "TestPoint" (id 1) (at 251.46 52.07 90)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Footprint" "TestPoint:TestPoint_Pad_D2.5mm" (id 2) (at 257.81 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "Datasheet" "~" (id 3) (at 257.81 60.96 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (pin "1" (uuid 6b3faad7-9d58-4a05-8ed1-1da761462f18))
-  )
-
   (symbol (lib_id "Device:R") (at 67.31 43.18 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid ec56ede5-b45e-4b38-b253-e90af267d8d0)
@@ -2035,9 +1987,6 @@
     )
     (path "/7a26fbe3-6ed8-4370-bef3-f62c83bd9760"
       (reference "#PWR09") (unit 1) (value "GND") (footprint "")
-    )
-    (path "/2a64dcda-edcc-40e4-8e7c-d368b6df665f"
-      (reference "#PWR010") (unit 1) (value "GND") (footprint "")
     )
     (path "/40cc8c50-15d7-4d1f-befc-4c0a9cc13eb3"
       (reference "#PWR011") (unit 1) (value "GND") (footprint "")
@@ -2525,17 +2474,11 @@
     (path "/946b7d05-a76d-4dab-8c7f-ee314175ff48/3a82d4f9-af31-48ff-8817-abac3e40fcbc"
       (reference "SW2") (unit 1) (value "RESET") (footprint "Button_Switch_SMD:SW_SPST_CK_RS282G05A3")
     )
-    (path "/4d64b221-2006-4be2-8f3e-495e244ba60d"
-      (reference "TP1") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.5mm")
-    )
     (path "/09e661ab-7055-44f5-a412-31ad25f12e9b"
       (reference "TP2") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
     )
     (path "/8b7d99dd-a8fd-479d-afb9-e88838e16b63"
       (reference "TP3") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_1.5x1.5mm")
-    )
-    (path "/dcdee9f3-7399-4d27-a1b1-8fda0194cb65"
-      (reference "TP4") (unit 1) (value "TestPoint") (footprint "TestPoint:TestPoint_Pad_D2.5mm")
     )
     (path "/cf5ee326-e078-4bf6-ba2d-41e060b62395"
       (reference "U1") (unit 1) (value "RT9013-33GB") (footprint "Package_TO_SOT_SMD:SOT-23-5")
