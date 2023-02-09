@@ -874,6 +874,18 @@
     (uuid fec2a97d-681e-4aac-bc3d-c861be2e6c60)
   )
 
+  (no_connect (at 116.84 40.64) (uuid 46a8d394-8e80-48a5-ae5b-aef85a8c6c99))
+  (no_connect (at 116.84 43.18) (uuid 46a8d394-8e80-48a5-ae5b-aef85a8c6c99))
+  (no_connect (at 116.84 83.82) (uuid 46a8d394-8e80-48a5-ae5b-aef85a8c6c99))
+  (no_connect (at 116.84 86.36) (uuid 46a8d394-8e80-48a5-ae5b-aef85a8c6c99))
+  (no_connect (at 116.84 93.98) (uuid 46a8d394-8e80-48a5-ae5b-aef85a8c6c99))
+  (no_connect (at 116.84 116.84) (uuid 46a8d394-8e80-48a5-ae5b-aef85a8c6c99))
+  (no_connect (at 116.84 58.42) (uuid 46a8d394-8e80-48a5-ae5b-aef85a8c6c99))
+  (no_connect (at 116.84 76.2) (uuid 46a8d394-8e80-48a5-ae5b-aef85a8c6c99))
+  (no_connect (at 116.84 78.74) (uuid 46a8d394-8e80-48a5-ae5b-aef85a8c6c99))
+  (no_connect (at 116.84 81.28) (uuid 46a8d394-8e80-48a5-ae5b-aef85a8c6c99))
+  (no_connect (at 116.84 96.52) (uuid 46a8d394-8e80-48a5-ae5b-aef85a8c6c99))
+  (no_connect (at 116.84 99.06) (uuid 46a8d394-8e80-48a5-ae5b-aef85a8c6c99))
   (no_connect (at 66.04 106.68) (uuid 5852655e-e71a-440e-8e4d-008868d4b7fa))
   (no_connect (at 66.04 109.22) (uuid 5852655e-e71a-440e-8e4d-008868d4b7fb))
 
@@ -1158,8 +1170,8 @@
     (uuid ef30ac92-68f2-43a6-8720-4f30f35f69f9)
   )
 
-  (text "Flash" (at 222.25 34.29 0)
-    (effects (font (size 2 2) bold) (justify left bottom))
+  (text "Flash" (at 224.79 35.56 0)
+    (effects (font (size 1.5 1.5) bold) (justify left bottom))
     (uuid 74cafd08-dc6b-4740-802c-502dfff302d1)
   )
 

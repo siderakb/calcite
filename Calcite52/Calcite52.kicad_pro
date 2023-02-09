@@ -61,6 +61,7 @@
         }
       ],
       "drc_exclusions": [
+        "courtyards_overlap|52684999|50412001|8e5949bd-5080-491c-9403-c2c79a4c9a1f|abcdf21d-30c2-40dd-9d04-ce9a4dedb231",
         "courtyards_overlap|52684999|50412001|abcdf21d-30c2-40dd-9d04-ce9a4dedb231|8e5949bd-5080-491c-9403-c2c79a4c9a1f",
         "courtyards_overlap|55339999|50412001|8c536caa-8dff-47ea-b12b-b519eadb45f5|8e5949bd-5080-491c-9403-c2c79a4c9a1f",
         "silk_over_copper|48005000|46990000|be328add-14fb-4050-89b3-c781d25fcd05|01c6c72b-acf5-45ce-99d5-0c5f78c6e73c",
@@ -367,7 +368,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Fula52.kicad_pro",
+    "filename": "Calcite52.kicad_pro",
     "version": 1
   },
   "net_settings": {
