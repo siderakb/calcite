@@ -40,5 +40,13 @@ fp-info-cache
 # Exported JLCPCB tools plugin
 jlcpcb/
 
-#  zykrah/kicad-kle-placer
+# zykrah/kicad-kle-placer
 keyautoplace.log
+
+# FreeCAD
+*.pyc
+*.fcstd1
+*.FCStd1
+*.fcstd2
+*.FCStd2
+Private 
