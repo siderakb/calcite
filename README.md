@@ -7,7 +7,7 @@ Powered by [QMK](https://github.com/qmk/qmk_firmware) and [Vial QMK](https://git
 ## Features
 
 - USB Type-C.
-- 52 Kailh Choc low profiles keys.
+- 52 Kailh Choc low profile (PG1350 series) keys.
 - Ortholinear layout.
 - Support [Vial](https://get.vial.today/), edit keymap and configure keyboard in real time.
 - Uses the [Raspberry Pi RP2040](https://www.raspberrypi.com/products/rp2040/) ARM Cortex-M0+ MCU, with 16MB (128Mb) external flash.
@@ -18,7 +18,7 @@ Powered by [QMK](https://github.com/qmk/qmk_firmware) and [Vial QMK](https://git
 - USB D+/- pads for debugging.
 - 500mA 3.3V LDO regulator (RT9013-33GB, SOT-23-5).
 - JLCPCB's PCBA service available, no need to solder parts yourself.
-- M2 screws mounting hole.
+- M2 screw mounting holes.
 
 ## PCB
 
