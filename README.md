@@ -1,6 +1,8 @@
 # Calcite
 
-*Calcite52* - A 52 keys ortho keyboard, compatible with Kailh Choc low profile switch.  
+![](https://i.imgur.com/BMcb451.jpg)
+
+*Calcite52* - A 52 keys ortho keyboard, compatible with Kailh Choc low profile switch. Base on  [Home row mods](https://precondition.github.io/home-row-mods) and [ARTSEY](https://artsey.io/).
 
 Powered by [QMK](https://github.com/qmk/qmk_firmware) and [Vial QMK](https://github.com/vial-kb/vial-qmk) firmware.
 
