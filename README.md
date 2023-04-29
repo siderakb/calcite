@@ -50,6 +50,10 @@ BOM and CPL `.csv` files for PCBA service are placed in [Releases](https://githu
 
 Vial QMK firmware is available in [zite/vial-qmk repo](https://github.com/ziteh/vial-qmk/tree/zite/calcite52/keyboards/zite/calcite52) (zite/calcite52 branch).
 
+## Footprints
+
+If `key-switches.pertty` folder is empty, run `git submodule update --init` to clone submodule.
+
 ## Disclaimer
 
 These files are provided without warranty of any kind.  
