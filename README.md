@@ -52,7 +52,7 @@ Vial QMK firmware is available in [zite/vial-qmk repo](https://github.com/ziteh/
 
 ## Footprints
 
-If `key-switches.pertty` folder is empty, run `git submodule update --init` to clone submodule.
+If `key-switches.pretty` folder is empty, run `git submodule update --init` to clone submodule.
 
 ## Disclaimer
 
