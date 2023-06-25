@@ -48,7 +48,7 @@ BOM and CPL `.csv` files for PCBA service are placed in [Releases](https://githu
 
 ## Firmware
 
-Vial QMK firmware is available in [zite/vial-qmk repo](https://github.com/siderakb/vial-qmk/tree/siderakb/calcite52/keyboards/zite/calcite52) (siderakb/calcite52 branch).
+Vial QMK firmware is available in [siderakb/vial-qmk repo](https://github.com/siderakb/vial-qmk/tree/siderakb/calcite52/keyboards/zite/calcite52) (*siderakb/calcite52* branch).
 
 ## Footprints
 
