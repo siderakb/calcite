@@ -48,11 +48,11 @@ BOM and CPL `.csv` files for PCBA service are placed in [Releases](https://githu
 
 ## Firmware
 
-Vial QMK firmware is available in [siderakb/vial-qmk repo](https://github.com/siderakb/vial-qmk/tree/siderakb/calcite52/keyboards/zite/calcite52) (*siderakb/calcite52* branch).
+Vial QMK firmware is available in [siderakb/vial-qmk](https://github.com/siderakb/vial-qmk/tree/siderakb/main/keyboards/siderakb/calcite52) (*siderakb/main* branch).
 
 ## Footprints
 
-If `key-switches.pretty` folder is empty, run `git submodule update --init` to clone submodule.
+If `key-switches.pretty` folder is empty, execute `git submodule update --init` to clone submodule.
 
 ## Disclaimer
 
