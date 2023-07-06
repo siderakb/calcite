@@ -1,0 +1,8 @@
+21:10:05 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 45: Plugin executed with KiCad version: 7.0.5
+21:10:05 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 46: Plugin executed with python version: '3.9.16 (main, May 18 2023, 07:48:16) [MSC v.1936 64 bit (AMD64)]'
+21:10:39 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 60: User layout: [{'name': 'Calcite60'}, [{'c': '#a8a8a8', 'a': 7}, '', {'c': '#cccccc'}, '', '', '', '', '', '', '', '', '', '', {'c': '#a8a8a8'}, ''], ['', {'c': '#cccccc'}, '', '', '', '', '', '', '', '', '', '', {'c': '#a8a8a8'}, ''], ['', {'c': '#cccccc'}, '', '', '', {'n': True}, '', '', '', {'n': True}, '', '', '', '', {'c': '#a8a8a8'}, ''], ['', {'c': '#cccccc'}, '', '', '', '', '', '', '', '', '', '', {'c': '#a8a8a8'}, ''], ['', '', '', '', {'c': '#e8b671', 'a': 6}, '1\n\n0', {'c': '#cccccc'}, '1\n\n0', '1\n\n0', {'c': '#e8b671'}, '1\n\n0', {'c': '#a8a8a8', 'a': 7}, '', '', '', ''], [{'x': 5, 'c': '#cccccc', 'a': 6, 'w': 2}, '1\n\n1\n\n180'], [{'x': 4, 'w': 2}, '1\n\n2\n\n180', {'w': 2}, '1\n\n2\n\n180']]
+21:10:39 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 35: Searching for KEY1 footprint
+21:10:39 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 35: Searching for D1 footprint
+21:10:39 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 61: Getting KEY1 footprint position: (40640000, 57912000)
+21:10:39 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 61: Getting D1 footprint position: (43095000, 52451000)
+21:10:39 com_github_adamws_kicad-kbplacer.kbplacer_plugin_action 279: Diode position: DiodePosition(relative_position=Point(x=2.455, y=-5.461), orientation=-90.0, side=<Side.BACK: True>)
