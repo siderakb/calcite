@@ -41,7 +41,7 @@ fp-info-cache
 jlcpcb/
 
 # zykrah/kicad-kle-placer
-keyautoplace.log
+*.log
 
 # FreeCAD
 *.pyc
