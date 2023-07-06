@@ -1,5 +1,5 @@
 (fp_lib_table
   (version 7)
   (lib (name "key-switches")(type "KiCad")(uri "${KIPRJMOD}/../../key-switches.pretty")(options "")(descr ""))
-  (lib (name "calcite")(type "KiCad")(uri "C:/Users/lyke/Dropbox/Projects/calcite/calcite.pretty")(options "")(descr ""))
+  (lib (name "calcite")(type "KiCad")(uri "${KIPRJMOD}/../../calcite.pretty")(options "")(descr ""))
 )
