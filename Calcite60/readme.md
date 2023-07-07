@@ -11,10 +11,14 @@ A 60 keys ortho Kailh Choc V1 keyboard.
 - Support [Vial](https://get.vial.today), edit keymap and configure keyboard in real time.
 - JLCPCB's PCBA service available.
 
+## PCB
+
+Online preview available [here](https://kicanvas.org/?github=https%3A%2F%2Fgithub.com%2Fsiderakb%2Fcalcite%2Ftree%2Fmain%2FCalcite60%2Fpcb), powered by [KiCanvas](https://kicanvas.org/)
+
 |        |               Preview                |
 | ------ | :----------------------------------: |
-| Front  | ![](https://i.imgur.com/ljPKI0m.png) |
-| Back   | ![](https://i.imgur.com/sCggRyA.png) |
+| Front  | ![](https://i.imgur.com/AOvkrIk.png) |
+| Back   | ![](https://i.imgur.com/M2StzmG.png) |
 | Layers | ![](https://i.imgur.com/xJO9YGT.png) |
 
 ## Board Characteristics
