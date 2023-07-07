@@ -21,7 +21,7 @@ Online preview available [here](https://kicanvas.org/?github=https%3A%2F%2Fgithu
 | Back   | ![](https://i.imgur.com/M2StzmG.png) |
 | Layers | ![](https://i.imgur.com/xJO9YGT.png) |
 
-## Board Characteristics
+### Board Characteristics
 
 - Copper layer count: 2
 - Board thickness: 1.6 mm
