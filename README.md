@@ -1,11 +1,10 @@
 # Calcite
 
-![](https://i.imgur.com/4C4MsGw.jpg)
-
 Kailh Choc V1 low profile switches ortho keyboard, powered by [QMK](https://github.com/qmk/qmk_firmware) and [Vial QMK](https://github.com/vial-kb/vial-qmk) firmware.
 
-- [Calcite60](/Calcite60/)
-- [Calcite52](/Calcite52/)
+| [Calcite60](/Calcite60/)                                | [Calcite52](/Calcite52/)                                |
+| ------------------------------------------------------- | ------------------------------------------------------- |
+| <img src="https://i.imgur.com/EM8KTTF.png" width="320"> | <img src="https://i.imgur.com/4C4MsGw.jpg" width="320"> |
 
 ## Note
 
