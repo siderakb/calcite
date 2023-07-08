@@ -1,5 +1,7 @@
 # Calcite60
 
+![](https://i.imgur.com/EM8KTTF.png)
+
 A 60 keys ortho Kailh Choc V1 keyboard.
 
 - Preonic V3 compatible (Mounting holes, USB and RESET button).
