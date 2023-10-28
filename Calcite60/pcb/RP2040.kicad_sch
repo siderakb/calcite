@@ -1881,6 +1881,11 @@
           (reference "C16") (unit 1)
         )
       )
+      (project ""
+        (path "/ff814071-e481-4a1e-9086-5683610a5421"
+          (reference "C16") (unit 1)
+        )
+      )
     )
   )
 
@@ -2659,6 +2664,11 @@
       )
       (project ""
         (path "/e4c51425-85cf-447d-b71b-92ae0b8d3ea4"
+          (reference "C8") (unit 1)
+        )
+      )
+      (project ""
+        (path "/ff814071-e481-4a1e-9086-5683610a5421"
           (reference "C8") (unit 1)
         )
       )

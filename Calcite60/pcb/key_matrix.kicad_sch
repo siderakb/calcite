@@ -183,6 +183,9 @@
   (junction (at 138.43 96.52) (diameter 0) (color 0 0 0 0)
     (uuid 19aa98b1-916b-4050-9003-bc51e5f34845)
   )
+  (junction (at 148.59 139.7) (diameter 0) (color 0 0 0 0)
+    (uuid 1a9a9ec9-d69b-42c3-b08c-18caf6bf3206)
+  )
   (junction (at 59.69 128.27) (diameter 0) (color 0 0 0 0)
     (uuid 1c406469-8b20-4ea8-819c-9669273e7cb5)
   )
@@ -192,11 +195,11 @@
   (junction (at 166.37 109.22) (diameter 0) (color 0 0 0 0)
     (uuid 233613a2-75c4-4384-9d52-a03bdc0d5948)
   )
-  (junction (at 138.43 134.62) (diameter 0) (color 0 0 0 0)
-    (uuid 24c92290-1c07-4e57-b713-a93cc2083470)
-  )
   (junction (at 191.77 58.42) (diameter 0) (color 0 0 0 0)
     (uuid 263e5218-7df2-42af-90c2-06322ee76832)
+  )
+  (junction (at 156.21 134.62) (diameter 0) (color 0 0 0 0)
+    (uuid 264dc75c-7c94-48cd-b7f6-6b68ea2180ee)
   )
   (junction (at 59.69 147.32) (diameter 0) (color 0 0 0 0)
     (uuid 27b4cbe9-01b0-4e22-b3b5-7d3f2675b332)
@@ -218,6 +221,9 @@
   )
   (junction (at 237.49 90.17) (diameter 0) (color 0 0 0 0)
     (uuid 34ee8c06-1a4f-4733-a409-7e0ddb833e03)
+  )
+  (junction (at 166.37 139.7) (diameter 0) (color 0 0 0 0)
+    (uuid 37d1fbdf-d294-4ff7-81aa-852734156292)
   )
   (junction (at 49.53 115.57) (diameter 0) (color 0 0 0 0)
     (uuid 3c0029d6-7fdb-4e2a-9fd8-55b3bf4a6474)
@@ -255,6 +261,9 @@
   (junction (at 173.99 115.57) (diameter 0) (color 0 0 0 0)
     (uuid 466c8da3-23b9-4f7b-9386-5ca9abb0ddef)
   )
+  (junction (at 184.15 120.65) (diameter 0) (color 0 0 0 0)
+    (uuid 48bd2b79-d194-45d2-8961-73d4fd8a995e)
+  )
   (junction (at 237.49 109.22) (diameter 0) (color 0 0 0 0)
     (uuid 4a53ddd7-6b1c-4355-b0ed-f0e33457676b)
   )
@@ -273,9 +282,6 @@
   (junction (at 201.93 90.17) (diameter 0) (color 0 0 0 0)
     (uuid 56bc1471-7452-4a46-b23d-bc5e9e4bd2c7)
   )
-  (junction (at 173.99 134.62) (diameter 0) (color 0 0 0 0)
-    (uuid 59062b92-dbee-4738-ada2-056f360a51b2)
-  )
   (junction (at 227.33 77.47) (diameter 0) (color 0 0 0 0)
     (uuid 5de8bf53-a42e-47ef-9138-a5e2e9e76351)
   )
@@ -287,9 +293,6 @@
   )
   (junction (at 113.03 90.17) (diameter 0) (color 0 0 0 0)
     (uuid 6af15143-2ac6-49ad-be8a-8f38bfda1b10)
-  )
-  (junction (at 184.15 139.7) (diameter 0) (color 0 0 0 0)
-    (uuid 6bfcf9d8-6161-4f70-81f1-a7b1c25fecd9)
   )
   (junction (at 148.59 109.22) (diameter 0) (color 0 0 0 0)
     (uuid 6e8b110f-acb3-4d39-a54f-4d57914de4da)
@@ -351,6 +354,9 @@
   (junction (at 245.11 96.52) (diameter 0) (color 0 0 0 0)
     (uuid 9240e6dd-038b-4467-8517-d4dffafdbb66)
   )
+  (junction (at 148.59 120.65) (diameter 0) (color 0 0 0 0)
+    (uuid 94559edf-0257-48bb-8a67-5c43fd96ab22)
+  )
   (junction (at 201.93 128.27) (diameter 0) (color 0 0 0 0)
     (uuid 9a26eeb9-89ef-48fe-8b66-9b3624c12fef)
   )
@@ -360,23 +366,20 @@
   (junction (at 77.47 109.22) (diameter 0) (color 0 0 0 0)
     (uuid 9aef76bd-58ab-4c9e-8873-6c923bb3e5e1)
   )
-  (junction (at 166.37 139.7) (diameter 0) (color 0 0 0 0)
-    (uuid 9b0fb82b-c741-40fc-aa7f-460ad89ebdee)
-  )
-  (junction (at 156.21 134.62) (diameter 0) (color 0 0 0 0)
-    (uuid 9d13f6be-a1ba-4880-9e48-b554d7ddbe54)
-  )
   (junction (at 120.65 115.57) (diameter 0) (color 0 0 0 0)
     (uuid 9d7c10dc-4ca4-4ec7-a9ba-508bba57da05)
   )
   (junction (at 59.69 109.22) (diameter 0) (color 0 0 0 0)
     (uuid a14e27f3-2e08-4f22-98b5-261341962321)
   )
+  (junction (at 166.37 120.65) (diameter 0) (color 0 0 0 0)
+    (uuid a1e3c96c-12b7-4517-b75c-97e7b65ad29a)
+  )
   (junction (at 102.87 96.52) (diameter 0) (color 0 0 0 0)
     (uuid a2de2680-62b1-484a-bb27-38d3c7bf7d9f)
   )
-  (junction (at 148.59 139.7) (diameter 0) (color 0 0 0 0)
-    (uuid a3b752c3-aa2c-4b58-b904-16083ca2ef39)
+  (junction (at 184.15 139.7) (diameter 0) (color 0 0 0 0)
+    (uuid a421fa13-3b7a-495d-bce6-635b681445dc)
   )
   (junction (at 49.53 58.42) (diameter 0) (color 0 0 0 0)
     (uuid a52ad3ac-ec37-415f-88e4-ed929ad80138)
@@ -392,6 +395,9 @@
   )
   (junction (at 184.15 90.17) (diameter 0) (color 0 0 0 0)
     (uuid b2d237c3-c9f3-4941-89f4-dfe21579da79)
+  )
+  (junction (at 173.99 134.62) (diameter 0) (color 0 0 0 0)
+    (uuid b53d55b6-8716-462c-a2d6-facbf6301b75)
   )
   (junction (at 156.21 115.57) (diameter 0) (color 0 0 0 0)
     (uuid b5413c44-990a-4a08-b292-3653ee19fb97)
@@ -453,6 +459,9 @@
   (junction (at 166.37 128.27) (diameter 0) (color 0 0 0 0)
     (uuid e4c4e424-28fb-4241-8cc2-18545d6d2300)
   )
+  (junction (at 138.43 134.62) (diameter 0) (color 0 0 0 0)
+    (uuid e50cc55c-140d-4953-b5ef-48816bb528bc)
+  )
   (junction (at 85.09 96.52) (diameter 0) (color 0 0 0 0)
     (uuid f0c73965-a75c-4488-81c7-7401f8018973)
   )
@@ -472,6 +481,10 @@
   (wire (pts (xy 130.81 147.32) (xy 148.59 147.32))
     (stroke (width 0) (type default))
     (uuid 01317413-3a8a-4384-9750-d2d8dd3c0c5d)
+  )
+  (wire (pts (xy 179.07 120.65) (xy 184.15 120.65))
+    (stroke (width 0) (type default))
+    (uuid 017cb39f-6783-45ce-a471-e1a12a7118f5)
   )
   (wire (pts (xy 102.87 134.62) (xy 107.95 134.62))
     (stroke (width 0) (type default))
@@ -569,6 +582,10 @@
     (stroke (width 0) (type default))
     (uuid 19f2d643-a57b-4677-a87b-58f90d562e3a)
   )
+  (wire (pts (xy 173.99 115.57) (xy 179.07 115.57))
+    (stroke (width 0) (type default))
+    (uuid 1b42b136-74f9-4464-a60e-f4d43d0186db)
+  )
   (wire (pts (xy 113.03 90.17) (xy 130.81 90.17))
     (stroke (width 0) (type default))
     (uuid 1b8c3642-6f66-4e6b-b1ec-8a2537b3b55f)
@@ -637,10 +654,6 @@
     (stroke (width 0) (type default))
     (uuid 33b4c77a-f44d-45bc-8743-a09f7c081559)
   )
-  (wire (pts (xy 173.99 115.57) (xy 179.07 115.57))
-    (stroke (width 0) (type default))
-    (uuid 348c8227-4e4d-415f-a82f-7d8ffac9da1c)
-  )
   (wire (pts (xy 143.51 139.7) (xy 148.59 139.7))
     (stroke (width 0) (type default))
     (uuid 351c0350-46ba-4eb7-a38b-c36dc19e8c73)
@@ -676,10 +689,6 @@
   (wire (pts (xy 245.11 115.57) (xy 245.11 134.62))
     (stroke (width 0) (type default))
     (uuid 4090d28f-4558-4600-9632-bce6eafa9691)
-  )
-  (wire (pts (xy 156.21 115.57) (xy 161.29 115.57))
-    (stroke (width 0) (type default))
-    (uuid 40adb6c8-8959-4db8-b5e3-73f0c887b5dc)
   )
   (wire (pts (xy 209.55 77.47) (xy 214.63 77.47))
     (stroke (width 0) (type default))
@@ -721,6 +730,10 @@
     (stroke (width 0) (type default))
     (uuid 4ca8296d-e40d-4c3f-a457-1427d362d062)
   )
+  (wire (pts (xy 143.51 120.65) (xy 148.59 120.65))
+    (stroke (width 0) (type default))
+    (uuid 4cdab2ac-bca7-4daa-80f9-b1b764709465)
+  )
   (wire (pts (xy 49.53 53.34) (xy 49.53 58.42))
     (stroke (width 0) (type default))
     (uuid 4d3b16a1-5e86-4264-ae2e-7d2352b2a425)
@@ -728,6 +741,10 @@
   (wire (pts (xy 59.69 128.27) (xy 77.47 128.27))
     (stroke (width 0) (type default))
     (uuid 4d85e9f6-c96a-460c-8f66-be4df50bc6f6)
+  )
+  (wire (pts (xy 138.43 115.57) (xy 143.51 115.57))
+    (stroke (width 0) (type default))
+    (uuid 4de2e03f-34e3-4e4a-9df1-3e400ef8730c)
   )
   (wire (pts (xy 130.81 90.17) (xy 148.59 90.17))
     (stroke (width 0) (type default))
@@ -913,10 +930,6 @@
     (stroke (width 0) (type default))
     (uuid 8cf29fc7-5a6b-479e-883b-731091a67790)
   )
-  (wire (pts (xy 138.43 115.57) (xy 143.51 115.57))
-    (stroke (width 0) (type default))
-    (uuid 8edf4588-3eec-4e09-9d73-9ffc5b2bdab6)
-  )
   (wire (pts (xy 67.31 115.57) (xy 72.39 115.57))
     (stroke (width 0) (type default))
     (uuid 8f74ea60-fbcd-4f6d-a430-8c5b7bae99cd)
@@ -964,6 +977,10 @@
   (wire (pts (xy 201.93 147.32) (xy 219.71 147.32))
     (stroke (width 0) (type default))
     (uuid 9b576384-9540-4ad5-8e49-68edc0e211ec)
+  )
+  (wire (pts (xy 161.29 120.65) (xy 166.37 120.65))
+    (stroke (width 0) (type default))
+    (uuid a09863d5-bf37-4e7f-9b91-b256e86912b2)
   )
   (wire (pts (xy 49.53 77.47) (xy 54.61 77.47))
     (stroke (width 0) (type default))
@@ -1169,6 +1186,10 @@
     (stroke (width 0) (type default))
     (uuid f4923ba4-c7ea-495a-8cc8-e430d854a39e)
   )
+  (wire (pts (xy 156.21 115.57) (xy 161.29 115.57))
+    (stroke (width 0) (type default))
+    (uuid f5dd9f7f-f355-4356-9c02-b9244a070fa2)
+  )
   (wire (pts (xy 156.21 96.52) (xy 156.21 115.57))
     (stroke (width 0) (type default))
     (uuid f6279ae0-fdc0-4bf5-8ece-ac147b171d42)
@@ -1325,7 +1346,7 @@
   (symbol (lib_id "Diode:1N4148") (at 77.47 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00a6e933-f9f3-47a1-a938-f3107cde4b04)
-    (property "Reference" "D26" (at 72.39 104.14 90)
+    (property "Reference" "D9" (at 72.39 104.14 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 68.58 106.68 90)
@@ -1348,7 +1369,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D26") (unit 1)
+          (reference "D9") (unit 1)
         )
       )
     )
@@ -1357,7 +1378,7 @@
   (symbol (lib_id "Diode:1N4148") (at 130.81 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 00b40d85-0ec7-4244-ac49-3efce73a888e)
-    (property "Reference" "D53" (at 125.73 142.24 90)
+    (property "Reference" "D26" (at 125.73 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 121.92 144.78 90)
@@ -1380,7 +1401,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D53") (unit 1)
+          (reference "D26") (unit 1)
         )
       )
     )
@@ -1389,13 +1410,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 128.27 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 01b48666-80e4-4fec-b40d-2099eb6bf97e)
-    (property "Reference" "KEY17" (at 128.27 74.93 0)
+    (property "Reference" "KEY23" (at 128.27 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 128.27 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 128.27 80.01 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 128.27 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 128.27 80.01 0)
@@ -1412,7 +1433,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY17") (unit 1)
+          (reference "KEY23") (unit 1)
         )
       )
     )
@@ -1421,7 +1442,7 @@
   (symbol (lib_id "Diode:1N4148") (at 77.47 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 03abfa81-9c86-4bad-ad51-51c2aa42aaa0)
-    (property "Reference" "D2" (at 73.66 66.04 90)
+    (property "Reference" "D7" (at 73.66 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 68.58 68.58 90)
@@ -1444,7 +1465,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D2") (unit 1)
+          (reference "D7") (unit 1)
         )
       )
     )
@@ -1485,13 +1506,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 146.05 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 094533ac-e3e0-48ff-92c2-8424060eb86b)
-    (property "Reference" "KEY18" (at 146.05 74.93 0)
+    (property "Reference" "KEY28" (at 146.05 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 146.05 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 146.05 80.01 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 146.05 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 146.05 80.01 0)
@@ -1508,7 +1529,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY18") (unit 1)
+          (reference "KEY28") (unit 1)
         )
       )
     )
@@ -1517,13 +1538,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 199.39 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0b1cc619-288f-409b-9d73-a56bb87be63a)
-    (property "Reference" "KEY21" (at 199.39 74.93 0)
+    (property "Reference" "KEY45" (at 199.39 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 199.39 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 199.39 80.01 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 199.39 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 80.01 0)
@@ -1540,7 +1561,71 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY21") (unit 1)
+          (reference "KEY45") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Switch:SW_Push_45deg") (at 146.05 118.11 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 0edc904e-b893-4f51-b85b-7657f3ea7be7)
+    (property "Reference" "KEY64" (at 149.86 116.84 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SW_Push_45deg" (at 146.05 123.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 146.05 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 146.05 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "" (at 146.05 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MFR. Part #" "" (at 146.05 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 0873f5af-83e3-499d-b6ff-04a742e2e63b))
+    (pin "2" (uuid ea7ad875-f257-4c66-b38b-5643cba34be7))
+    (instances
+      (project "Calcite60"
+        (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
+          (reference "KEY64") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Switch:SW_Push_45deg") (at 181.61 118.11 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid 12842228-b739-4a57-bd7a-cc758a8725a5)
+    (property "Reference" "KEY66" (at 185.42 116.84 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SW_Push_45deg" (at 181.61 123.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 181.61 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 181.61 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "" (at 181.61 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MFR. Part #" "" (at 181.61 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 6ed0a34d-1645-431f-bb8b-f72569cc98ba))
+    (pin "2" (uuid b04db417-9c11-4ebb-9342-cf99cc946ed8))
+    (instances
+      (project "Calcite60"
+        (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
+          (reference "KEY66") (unit 1)
         )
       )
     )
@@ -1549,7 +1634,7 @@
   (symbol (lib_id "Diode:1N4148") (at 237.49 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 15e38992-cc72-4bf2-bf12-9d8c5b41abb8)
-    (property "Reference" "D59" (at 232.41 142.24 90)
+    (property "Reference" "D56" (at 232.41 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 228.6 144.78 90)
@@ -1572,22 +1657,22 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D59") (unit 1)
+          (reference "D56") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Switch:SW_Push_45deg") (at 146.05 137.16 180) (unit 1)
+  (symbol (lib_id "Switch:SW_Push_45deg") (at 146.05 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 19791bff-66d3-4220-b942-b592c2c0803f)
-    (property "Reference" "KEY55" (at 149.86 135.89 0)
+    (property "Reference" "KEY31" (at 142.24 138.43 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SW_Push_45deg" (at 146.05 142.24 0)
+    (property "Value" "SW_Push_45deg" (at 146.05 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 146.05 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 146.05 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 146.05 137.16 0)
@@ -1604,7 +1689,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY55") (unit 1)
+          (reference "KEY31") (unit 1)
         )
       )
     )
@@ -1613,7 +1698,7 @@
   (symbol (lib_id "Diode:1N4148") (at 237.49 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1a2043fa-d85a-4e32-b5d2-97cda9a39c07)
-    (property "Reference" "D23" (at 232.41 85.09 90)
+    (property "Reference" "D53" (at 232.41 85.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 228.6 87.63 90)
@@ -1636,7 +1721,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D23") (unit 1)
+          (reference "D53") (unit 1)
         )
       )
     )
@@ -1645,7 +1730,7 @@
   (symbol (lib_id "Diode:1N4148") (at 113.03 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1cb779b7-4ba8-48db-9210-de2ca7ad3d98)
-    (property "Reference" "D40" (at 107.95 123.19 90)
+    (property "Reference" "D20" (at 107.95 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 104.14 125.73 90)
@@ -1668,7 +1753,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D40") (unit 1)
+          (reference "D20") (unit 1)
         )
       )
     )
@@ -1677,7 +1762,7 @@
   (symbol (lib_id "Diode:1N4148") (at 130.81 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 1ce0c859-424b-4b24-a56f-28fc8bad77d0)
-    (property "Reference" "D41" (at 125.73 123.19 90)
+    (property "Reference" "D25" (at 125.73 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 121.92 125.73 90)
@@ -1700,22 +1785,22 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D41") (unit 1)
+          (reference "D25") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Switch:SW_Push_45deg") (at 163.83 137.16 180) (unit 1)
+  (symbol (lib_id "Switch:SW_Push_45deg") (at 163.83 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 201e53b1-82f1-4864-838a-7950e4fc5d69)
-    (property "Reference" "KEY57" (at 167.64 135.89 0)
+    (property "Reference" "KEY37" (at 160.02 138.43 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SW_Push_45deg" (at 163.83 142.24 0)
+    (property "Value" "SW_Push_45deg" (at 163.83 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 163.83 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 163.83 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.83 137.16 0)
@@ -1732,7 +1817,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY57") (unit 1)
+          (reference "KEY37") (unit 1)
         )
       )
     )
@@ -1741,13 +1826,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 92.71 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c8af668-ce55-4482-8124-7c836d7224a0)
-    (property "Reference" "KEY27" (at 92.71 93.98 0)
+    (property "Reference" "KEY13" (at 92.71 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 92.71 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 92.71 99.06 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 92.71 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 92.71 99.06 0)
@@ -1764,7 +1849,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY27") (unit 1)
+          (reference "KEY13") (unit 1)
         )
       )
     )
@@ -1773,13 +1858,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 110.49 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2d92621e-ef55-4f0e-a54f-74aece31089c)
-    (property "Reference" "KEY40" (at 110.49 113.03 0)
+    (property "Reference" "KEY19" (at 110.49 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 110.49 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 110.49 118.11 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 110.49 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 110.49 118.11 0)
@@ -1796,7 +1881,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY40") (unit 1)
+          (reference "KEY19") (unit 1)
         )
       )
     )
@@ -1805,7 +1890,7 @@
   (symbol (lib_id "Diode:1N4148") (at 113.03 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2dd96696-6672-4ae5-b14d-0fadd89baa59)
-    (property "Reference" "D16" (at 107.95 85.09 90)
+    (property "Reference" "D18" (at 107.95 85.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 104.14 87.63 90)
@@ -1828,7 +1913,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D16") (unit 1)
+          (reference "D18") (unit 1)
         )
       )
     )
@@ -1837,7 +1922,7 @@
   (symbol (lib_id "Diode:1N4148") (at 184.15 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2f66068c-e8e9-4889-af15-5396fd5ddfc8)
-    (property "Reference" "D20" (at 179.07 85.09 90)
+    (property "Reference" "D38" (at 179.07 85.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 175.26 87.63 90)
@@ -1860,7 +1945,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D20") (unit 1)
+          (reference "D38") (unit 1)
         )
       )
     )
@@ -1869,13 +1954,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 57.15 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3573a92d-585a-495f-9d7b-d3a2bb5a6f50)
-    (property "Reference" "KEY13" (at 57.15 74.93 0)
+    (property "Reference" "KEY2" (at 57.15 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 57.15 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 57.15 80.01 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 57.15 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 80.01 0)
@@ -1892,7 +1977,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY13") (unit 1)
+          (reference "KEY2") (unit 1)
         )
       )
     )
@@ -1901,13 +1986,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 92.71 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 388f38f5-d9d6-4cad-ac05-261b6c337d45)
-    (property "Reference" "KEY51" (at 92.71 132.08 0)
+    (property "Reference" "KEY15" (at 92.71 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 92.71 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 92.71 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 92.71 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 92.71 137.16 0)
@@ -1924,7 +2009,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY51") (unit 1)
+          (reference "KEY15") (unit 1)
         )
       )
     )
@@ -1933,7 +2018,7 @@
   (symbol (lib_id "Diode:1N4148") (at 148.59 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3b229e9d-b3b7-4307-bd70-aeee67d1bc9b)
-    (property "Reference" "D18" (at 143.51 85.09 90)
+    (property "Reference" "D28" (at 143.51 85.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 139.7 87.63 90)
@@ -1956,7 +2041,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D18") (unit 1)
+          (reference "D28") (unit 1)
         )
       )
     )
@@ -1965,13 +2050,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 234.95 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3d2bd9cb-7244-462d-b40b-be5cbaaf6ef0)
-    (property "Reference" "KEY47" (at 234.95 113.03 0)
+    (property "Reference" "KEY57" (at 234.95 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 234.95 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 234.95 118.11 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 234.95 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 234.95 118.11 0)
@@ -1988,7 +2073,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY47") (unit 1)
+          (reference "KEY57") (unit 1)
         )
       )
     )
@@ -1997,13 +2082,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 199.39 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3ea5a508-9958-4891-ab71-cf2d87fa5af6)
-    (property "Reference" "KEY45" (at 199.39 113.03 0)
+    (property "Reference" "KEY47" (at 199.39 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 199.39 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 199.39 118.11 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 199.39 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 118.11 0)
@@ -2020,7 +2105,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY45") (unit 1)
+          (reference "KEY47") (unit 1)
         )
       )
     )
@@ -2029,7 +2114,7 @@
   (symbol (lib_id "Diode:1N4148") (at 237.49 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3f66dea3-5775-4210-b94e-1414511f65a1)
-    (property "Reference" "D11" (at 232.41 66.04 90)
+    (property "Reference" "D52" (at 232.41 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 228.6 68.58 90)
@@ -2052,7 +2137,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D11") (unit 1)
+          (reference "D52") (unit 1)
         )
       )
     )
@@ -2061,7 +2146,7 @@
   (symbol (lib_id "Diode:1N4148") (at 219.71 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 3fb5a80a-ec26-4c45-82ac-147bf84f0e9c)
-    (property "Reference" "D46" (at 214.63 123.19 90)
+    (property "Reference" "D50" (at 214.63 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 210.82 125.73 90)
@@ -2084,7 +2169,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D46") (unit 1)
+          (reference "D50") (unit 1)
         )
       )
     )
@@ -2093,13 +2178,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 217.17 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 40194261-f794-4076-b2fa-7a1281f374f9)
-    (property "Reference" "KEY46" (at 217.17 113.03 0)
+    (property "Reference" "KEY52" (at 217.17 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 217.17 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 217.17 118.11 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 217.17 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 217.17 118.11 0)
@@ -2116,7 +2201,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY46") (unit 1)
+          (reference "KEY52") (unit 1)
         )
       )
     )
@@ -2125,13 +2210,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 199.39 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 433bee51-6790-4340-b985-1e5d601e63ce)
-    (property "Reference" "KEY33" (at 199.39 93.98 0)
+    (property "Reference" "KEY46" (at 199.39 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 199.39 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 199.39 99.06 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 199.39 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 99.06 0)
@@ -2148,7 +2233,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY33") (unit 1)
+          (reference "KEY46") (unit 1)
         )
       )
     )
@@ -2157,13 +2242,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 199.39 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 44a36598-f662-44a0-a5cd-9cf80c9c9b7e)
-    (property "Reference" "KEY60" (at 199.39 132.08 0)
+    (property "Reference" "KEY48" (at 199.39 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 199.39 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 199.39 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 199.39 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 137.16 0)
@@ -2180,7 +2265,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY60") (unit 1)
+          (reference "KEY48") (unit 1)
         )
       )
     )
@@ -2189,13 +2274,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 146.05 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 454c23ff-a662-4f7b-b01c-762386cc2b90)
-    (property "Reference" "KEY6" (at 146.05 55.88 0)
+    (property "Reference" "KEY27" (at 146.05 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 146.05 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 146.05 60.96 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 146.05 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 146.05 60.96 0)
@@ -2212,7 +2297,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY6") (unit 1)
+          (reference "KEY27") (unit 1)
         )
       )
     )
@@ -2221,13 +2306,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 181.61 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 46d3db09-0f02-4704-a2c7-ccf121cd6462)
-    (property "Reference" "KEY20" (at 181.61 74.93 0)
+    (property "Reference" "KEY40" (at 181.61 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 181.61 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 181.61 80.01 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 181.61 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 181.61 80.01 0)
@@ -2244,7 +2329,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY20") (unit 1)
+          (reference "KEY40") (unit 1)
         )
       )
     )
@@ -2253,7 +2338,7 @@
   (symbol (lib_id "Diode:1N4148") (at 184.15 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4867bd7b-4fae-49b2-86e5-80b28954e5ee)
-    (property "Reference" "D56" (at 179.07 142.24 90)
+    (property "Reference" "D41" (at 179.07 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 175.26 144.78 90)
@@ -2276,7 +2361,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D56") (unit 1)
+          (reference "D41") (unit 1)
         )
       )
     )
@@ -2285,13 +2370,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 234.95 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 49bb1b32-110b-4fe9-85fd-ae8d98a3a28d)
-    (property "Reference" "KEY23" (at 234.95 74.93 0)
+    (property "Reference" "KEY55" (at 234.95 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 234.95 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 234.95 80.01 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 234.95 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 234.95 80.01 0)
@@ -2308,7 +2393,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY23") (unit 1)
+          (reference "KEY55") (unit 1)
         )
       )
     )
@@ -2317,7 +2402,7 @@
   (symbol (lib_id "Diode:1N4148") (at 130.81 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4be2d1f2-833a-4959-965d-11068e17f4e0)
-    (property "Reference" "D29" (at 125.73 104.14 90)
+    (property "Reference" "D24" (at 125.73 104.14 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 121.92 106.68 90)
@@ -2340,7 +2425,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D29") (unit 1)
+          (reference "D24") (unit 1)
         )
       )
     )
@@ -2349,7 +2434,7 @@
   (symbol (lib_id "Diode:1N4148") (at 255.27 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4e533eea-4214-4a1c-8294-8e8584cd9078)
-    (property "Reference" "D60" (at 250.19 142.24 90)
+    (property "Reference" "D61" (at 250.19 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 246.38 144.78 90)
@@ -2372,7 +2457,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D60") (unit 1)
+          (reference "D61") (unit 1)
         )
       )
     )
@@ -2381,7 +2466,7 @@
   (symbol (lib_id "Diode:1N4148") (at 130.81 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 4f5c191d-c6f2-48d7-8f0a-947d6ed3127b)
-    (property "Reference" "D17" (at 125.73 85.09 90)
+    (property "Reference" "D23" (at 125.73 85.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 121.92 87.63 90)
@@ -2404,7 +2489,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D17") (unit 1)
+          (reference "D23") (unit 1)
         )
       )
     )
@@ -2413,13 +2498,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 199.39 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 500e9ef4-35f0-4368-a475-95e8b6c9210b)
-    (property "Reference" "KEY9" (at 199.39 55.88 0)
+    (property "Reference" "KEY44" (at 199.39 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 199.39 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 199.39 60.96 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 199.39 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 199.39 60.96 0)
@@ -2436,7 +2521,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY9") (unit 1)
+          (reference "KEY44") (unit 1)
         )
       )
     )
@@ -2445,13 +2530,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 252.73 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 535d934d-9552-47ca-ba2f-70ef30b2919a)
-    (property "Reference" "KEY48" (at 252.73 113.03 0)
+    (property "Reference" "KEY62" (at 252.73 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 252.73 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 252.73 118.11 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 252.73 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.73 118.11 0)
@@ -2468,7 +2553,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY48") (unit 1)
+          (reference "KEY62") (unit 1)
         )
       )
     )
@@ -2477,7 +2562,7 @@
   (symbol (lib_id "Diode:1N4148") (at 255.27 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5491528c-a557-4d54-8160-1fc51ea3210a)
-    (property "Reference" "D24" (at 250.19 85.09 90)
+    (property "Reference" "D58" (at 250.19 85.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 246.38 87.63 90)
@@ -2500,7 +2585,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D24") (unit 1)
+          (reference "D58") (unit 1)
         )
       )
     )
@@ -2509,7 +2594,7 @@
   (symbol (lib_id "Diode:1N4148") (at 166.37 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 573f2f85-0f65-4ff8-b3d1-0d2dbee8ba86)
-    (property "Reference" "D55" (at 161.29 142.24 90)
+    (property "Reference" "D36" (at 161.29 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 157.48 144.78 90)
@@ -2532,7 +2617,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D55") (unit 1)
+          (reference "D36") (unit 1)
         )
       )
     )
@@ -2541,7 +2626,7 @@
   (symbol (lib_id "Diode:1N4148") (at 148.59 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 577e9bd9-b63e-4dea-9741-c4eb7f515f93)
-    (property "Reference" "D42" (at 143.51 123.19 90)
+    (property "Reference" "D30" (at 143.51 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 139.7 125.73 90)
@@ -2564,7 +2649,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D42") (unit 1)
+          (reference "D30") (unit 1)
         )
       )
     )
@@ -2573,13 +2658,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 128.27 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5a53b1db-3b53-46b0-8de7-80303050dd4e)
-    (property "Reference" "KEY41" (at 128.27 113.03 0)
+    (property "Reference" "KEY25" (at 128.27 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 128.27 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 128.27 118.11 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 128.27 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 128.27 118.11 0)
@@ -2596,7 +2681,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY41") (unit 1)
+          (reference "KEY25") (unit 1)
         )
       )
     )
@@ -2605,13 +2690,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 217.17 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5af25b44-fb39-4aee-9d40-720760bdca60)
-    (property "Reference" "KEY22" (at 217.17 74.93 0)
+    (property "Reference" "KEY50" (at 217.17 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 217.17 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 217.17 80.01 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 217.17 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 217.17 80.01 0)
@@ -2628,22 +2713,22 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY22") (unit 1)
+          (reference "KEY50") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Switch:SW_Push_45deg") (at 158.75 137.16 0) (unit 1)
+  (symbol (lib_id "Switch:SW_Push_45deg") (at 158.75 137.16 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5bb99ea4-3730-4164-9917-295764757bfc)
-    (property "Reference" "KEY56" (at 158.75 132.08 0)
+    (property "Reference" "KEY32" (at 158.75 142.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SW_Push_45deg" (at 158.75 132.08 0)
+    (property "Value" "SW_Push_45deg" (at 158.75 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 158.75 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 158.75 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 158.75 137.16 0)
@@ -2660,7 +2745,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY56") (unit 1)
+          (reference "KEY32") (unit 1)
         )
       )
     )
@@ -2669,13 +2754,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 74.93 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5be81871-4191-4ccb-81dd-729201241fd4)
-    (property "Reference" "KEY26" (at 74.93 93.98 0)
+    (property "Reference" "KEY8" (at 74.93 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 74.93 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 74.93 99.06 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 74.93 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 74.93 99.06 0)
@@ -2692,31 +2777,31 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY26") (unit 1)
+          (reference "KEY8") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Switch:SW_Push_45deg") (at 181.61 118.11 0) (unit 1)
+  (symbol (lib_id "Switch:SW_Push_45deg") (at 176.53 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5e05ef3e-d3b5-4905-a1b3-67604d570b24)
-    (property "Reference" "KEY44" (at 181.61 113.03 0)
+    (property "Reference" "KEY42" (at 176.53 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SW_Push_45deg" (at 181.61 113.03 0)
+    (property "Value" "SW_Push_45deg" (at 176.53 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 181.61 118.11 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 176.53 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 181.61 118.11 0)
+    (property "Datasheet" "~" (at 176.53 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 181.61 118.11 0)
+    (property "LCSC" "" (at 176.53 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR. Part #" "" (at 181.61 118.11 0)
+    (property "MFR. Part #" "" (at 176.53 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid 826c77f1-c743-433e-a05a-230be60f73df))
@@ -2724,7 +2809,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY44") (unit 1)
+          (reference "KEY42") (unit 1)
         )
       )
     )
@@ -2733,7 +2818,7 @@
   (symbol (lib_id "Diode:1N4148") (at 77.47 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5e986e81-aac4-4670-be46-19b133cd6615)
-    (property "Reference" "D14" (at 72.39 85.09 90)
+    (property "Reference" "D8" (at 72.39 85.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 68.58 87.63 90)
@@ -2756,7 +2841,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D14") (unit 1)
+          (reference "D8") (unit 1)
         )
       )
     )
@@ -2765,7 +2850,7 @@
   (symbol (lib_id "Diode:1N4148") (at 166.37 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 606e303c-1abd-4d92-9df8-a9c213e9b04a)
-    (property "Reference" "D19" (at 161.29 85.09 90)
+    (property "Reference" "D33" (at 161.29 85.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 157.48 87.63 90)
@@ -2788,7 +2873,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D19") (unit 1)
+          (reference "D33") (unit 1)
         )
       )
     )
@@ -2797,13 +2882,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 252.73 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 63925017-b28c-4b1e-9010-35405a3bef97)
-    (property "Reference" "KEY24" (at 252.73 74.93 0)
+    (property "Reference" "KEY60" (at 252.73 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 252.73 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 252.73 80.01 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 252.73 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.73 80.01 0)
@@ -2820,7 +2905,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY24") (unit 1)
+          (reference "KEY60") (unit 1)
         )
       )
     )
@@ -2829,7 +2914,7 @@
   (symbol (lib_id "Diode:1N4148") (at 77.47 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 65e6a7ae-0c4a-4909-9820-bcff4030b7ce)
-    (property "Reference" "D50" (at 72.39 142.24 90)
+    (property "Reference" "D11" (at 72.39 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 68.58 144.78 90)
@@ -2852,7 +2937,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D50") (unit 1)
+          (reference "D11") (unit 1)
         )
       )
     )
@@ -2861,13 +2946,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 74.93 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 67ffbaba-5b23-4df5-ab27-e1960cef16fd)
-    (property "Reference" "KEY2" (at 74.93 55.88 0)
+    (property "Reference" "KEY6" (at 74.93 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 74.93 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 74.93 60.96 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 74.93 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 74.93 60.96 0)
@@ -2884,7 +2969,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY2") (unit 1)
+          (reference "KEY6") (unit 1)
         )
       )
     )
@@ -2893,7 +2978,7 @@
   (symbol (lib_id "Diode:1N4148") (at 237.49 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 693171be-2190-4bfa-832d-801d825a41bf)
-    (property "Reference" "D35" (at 232.41 104.14 90)
+    (property "Reference" "D54" (at 232.41 104.14 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 228.6 106.68 90)
@@ -2916,7 +3001,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D35") (unit 1)
+          (reference "D54") (unit 1)
         )
       )
     )
@@ -2925,13 +3010,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 110.49 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6c1ae014-7f6e-400e-a57c-45dd552a383b)
-    (property "Reference" "KEY16" (at 110.49 74.93 0)
+    (property "Reference" "KEY17" (at 110.49 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 110.49 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 110.49 80.01 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 110.49 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 110.49 80.01 0)
@@ -2948,7 +3033,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY16") (unit 1)
+          (reference "KEY17") (unit 1)
         )
       )
     )
@@ -2957,7 +3042,7 @@
   (symbol (lib_id "Diode:1N4148") (at 148.59 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6d02505d-9f6a-4689-9715-77577a8e65f8)
-    (property "Reference" "D6" (at 144.78 66.04 90)
+    (property "Reference" "D27" (at 144.78 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 139.7 68.58 90)
@@ -2980,7 +3065,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D6") (unit 1)
+          (reference "D27") (unit 1)
         )
       )
     )
@@ -2989,7 +3074,7 @@
   (symbol (lib_id "Diode:1N4148") (at 255.27 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 6e3abded-46c5-427a-99a6-456a6a467f3d)
-    (property "Reference" "D12" (at 250.19 66.04 90)
+    (property "Reference" "D57" (at 250.19 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 246.38 68.58 90)
@@ -3012,7 +3097,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D12") (unit 1)
+          (reference "D57") (unit 1)
         )
       )
     )
@@ -3021,7 +3106,7 @@
   (symbol (lib_id "Diode:1N4148") (at 95.25 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7039ef57-60b0-4c12-b5a4-ff172af42b81)
-    (property "Reference" "D39" (at 90.17 123.19 90)
+    (property "Reference" "D15" (at 90.17 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 86.36 125.73 90)
@@ -3044,7 +3129,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D39") (unit 1)
+          (reference "D15") (unit 1)
         )
       )
     )
@@ -3053,13 +3138,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 92.71 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 720a75b1-2557-4e40-8864-6c33ee378c74)
-    (property "Reference" "KEY39" (at 92.71 113.03 0)
+    (property "Reference" "KEY14" (at 92.71 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 92.71 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 92.71 118.11 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 92.71 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 92.71 118.11 0)
@@ -3076,7 +3161,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY39") (unit 1)
+          (reference "KEY14") (unit 1)
         )
       )
     )
@@ -3085,7 +3170,7 @@
   (symbol (lib_id "Diode:1N4148") (at 219.71 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 74740694-e9b0-42c3-bc55-de8fab437867)
-    (property "Reference" "D22" (at 214.63 85.09 90)
+    (property "Reference" "D48" (at 214.63 85.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 210.82 87.63 90)
@@ -3108,7 +3193,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D22") (unit 1)
+          (reference "D48") (unit 1)
         )
       )
     )
@@ -3117,13 +3202,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 217.17 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7ac89ef4-d457-454d-9e5f-956136898c7b)
-    (property "Reference" "KEY34" (at 217.17 93.98 0)
+    (property "Reference" "KEY51" (at 217.17 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 217.17 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 217.17 99.06 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 217.17 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 217.17 99.06 0)
@@ -3140,7 +3225,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY34") (unit 1)
+          (reference "KEY51") (unit 1)
         )
       )
     )
@@ -3149,13 +3234,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 163.83 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7c07e0e5-75d3-4360-9535-83cb79f34ae7)
-    (property "Reference" "KEY19" (at 163.83 74.93 0)
+    (property "Reference" "KEY34" (at 163.83 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 163.83 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 163.83 80.01 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 163.83 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.83 80.01 0)
@@ -3172,7 +3257,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY19") (unit 1)
+          (reference "KEY34") (unit 1)
         )
       )
     )
@@ -3181,7 +3266,7 @@
   (symbol (lib_id "Diode:1N4148") (at 113.03 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7e2156fc-f3b3-415f-9355-65a95534edb9)
-    (property "Reference" "D4" (at 109.22 66.04 90)
+    (property "Reference" "D17" (at 109.22 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 104.14 68.58 90)
@@ -3204,7 +3289,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D4") (unit 1)
+          (reference "D17") (unit 1)
         )
       )
     )
@@ -3213,7 +3298,7 @@
   (symbol (lib_id "Diode:1N4148") (at 95.25 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7fc31296-0b73-451a-8f15-5245b21ea1b4)
-    (property "Reference" "D51" (at 90.17 142.24 90)
+    (property "Reference" "D16" (at 90.17 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 86.36 144.78 90)
@@ -3236,7 +3321,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D51") (unit 1)
+          (reference "D16") (unit 1)
         )
       )
     )
@@ -3251,7 +3336,7 @@
     (property "Value" "SW_Push_45deg" (at 57.15 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 57.15 60.96 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 57.15 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 60.96 0)
@@ -3274,25 +3359,25 @@
     )
   )
 
-  (symbol (lib_id "Switch:SW_Push_45deg") (at 163.83 118.11 0) (unit 1)
+  (symbol (lib_id "Switch:SW_Push_45deg") (at 158.75 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8134add6-3218-49b0-b22a-21d372c59630)
-    (property "Reference" "KEY43" (at 163.83 113.03 0)
+    (property "Reference" "KEY36" (at 158.75 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SW_Push_45deg" (at 163.83 113.03 0)
+    (property "Value" "SW_Push_45deg" (at 158.75 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 163.83 118.11 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 158.75 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 163.83 118.11 0)
+    (property "Datasheet" "~" (at 158.75 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 163.83 118.11 0)
+    (property "LCSC" "" (at 158.75 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR. Part #" "" (at 163.83 118.11 0)
+    (property "MFR. Part #" "" (at 158.75 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid e728f3bb-a2e4-48f1-aa0c-15ccc0732a93))
@@ -3300,7 +3385,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY43") (unit 1)
+          (reference "KEY36") (unit 1)
         )
       )
     )
@@ -3309,13 +3394,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 110.49 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8199d728-1017-4ff1-9eb8-c2b874ea27cb)
-    (property "Reference" "KEY28" (at 110.49 93.98 0)
+    (property "Reference" "KEY18" (at 110.49 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 110.49 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 110.49 99.06 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 110.49 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 110.49 99.06 0)
@@ -3332,7 +3417,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY28") (unit 1)
+          (reference "KEY18") (unit 1)
         )
       )
     )
@@ -3341,13 +3426,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 217.17 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 83a00d73-e54b-4794-84ef-29ffcfe5d97c)
-    (property "Reference" "KEY10" (at 217.17 55.88 0)
+    (property "Reference" "KEY49" (at 217.17 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 217.17 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 217.17 60.96 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 217.17 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 217.17 60.96 0)
@@ -3364,7 +3449,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY10") (unit 1)
+          (reference "KEY49") (unit 1)
         )
       )
     )
@@ -3373,13 +3458,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 128.27 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 83ec7e7e-7c9c-4abf-91c2-8366ad3c0561)
-    (property "Reference" "KEY29" (at 128.27 93.98 0)
+    (property "Reference" "KEY24" (at 128.27 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 128.27 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 128.27 99.06 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 128.27 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 128.27 99.06 0)
@@ -3396,7 +3481,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY29") (unit 1)
+          (reference "KEY24") (unit 1)
         )
       )
     )
@@ -3405,7 +3490,7 @@
   (symbol (lib_id "Diode:1N4148") (at 130.81 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 857697ce-6fc9-450f-84df-b2ca4cb1d497)
-    (property "Reference" "D5" (at 127 66.04 90)
+    (property "Reference" "D22" (at 127 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 121.92 68.58 90)
@@ -3428,7 +3513,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D5") (unit 1)
+          (reference "D22") (unit 1)
         )
       )
     )
@@ -3437,7 +3522,7 @@
   (symbol (lib_id "Diode:1N4148") (at 201.93 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8588f83b-c90d-414f-af92-fb716b213aec)
-    (property "Reference" "D9" (at 198.12 66.04 90)
+    (property "Reference" "D42" (at 198.12 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 193.04 68.58 90)
@@ -3460,7 +3545,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D9") (unit 1)
+          (reference "D42") (unit 1)
         )
       )
     )
@@ -3469,7 +3554,7 @@
   (symbol (lib_id "Diode:1N4148") (at 184.15 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 87c4e367-41dd-48f0-ab32-d1baa86699a3)
-    (property "Reference" "D32" (at 179.07 104.14 90)
+    (property "Reference" "D39" (at 179.07 104.14 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 175.26 106.68 90)
@@ -3492,7 +3577,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D32") (unit 1)
+          (reference "D39") (unit 1)
         )
       )
     )
@@ -3501,13 +3586,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 57.15 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 88bd4c61-2f41-463d-a9a8-3c3fd5d4792c)
-    (property "Reference" "KEY49" (at 57.15 132.08 0)
+    (property "Reference" "KEY5" (at 57.15 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 57.15 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 57.15 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 57.15 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 137.16 0)
@@ -3524,7 +3609,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY49") (unit 1)
+          (reference "KEY5") (unit 1)
         )
       )
     )
@@ -3533,7 +3618,7 @@
   (symbol (lib_id "Diode:1N4148") (at 59.69 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 890af8a0-c727-4000-bb72-2bfa35a59fde)
-    (property "Reference" "D13" (at 54.61 85.09 90)
+    (property "Reference" "D3" (at 54.61 85.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 50.8 87.63 90)
@@ -3556,7 +3641,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D13") (unit 1)
+          (reference "D3") (unit 1)
         )
       )
     )
@@ -3565,7 +3650,7 @@
   (symbol (lib_id "Diode:1N4148") (at 59.69 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8abfd3cd-5e7d-4c62-a643-225b66e87e6c)
-    (property "Reference" "D49" (at 54.61 142.24 90)
+    (property "Reference" "D6" (at 54.61 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 50.8 144.78 90)
@@ -3588,7 +3673,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D49") (unit 1)
+          (reference "D6") (unit 1)
         )
       )
     )
@@ -3597,13 +3682,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 163.83 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8c4377a0-eaf4-4790-a36c-6aed0e6039b4)
-    (property "Reference" "KEY31" (at 163.83 93.98 0)
+    (property "Reference" "KEY35" (at 163.83 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 163.83 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 163.83 99.06 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 163.83 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.83 99.06 0)
@@ -3620,7 +3705,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY31") (unit 1)
+          (reference "KEY35") (unit 1)
         )
       )
     )
@@ -3629,13 +3714,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 252.73 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8e171b87-cc44-4c8c-8552-8ce2d71e0a86)
-    (property "Reference" "KEY12" (at 252.73 55.88 0)
+    (property "Reference" "KEY59" (at 252.73 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 252.73 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 252.73 60.96 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 252.73 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.73 60.96 0)
@@ -3652,7 +3737,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY12") (unit 1)
+          (reference "KEY59") (unit 1)
         )
       )
     )
@@ -3661,13 +3746,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 217.17 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8e40decb-1eeb-456b-b180-d9aba85cfc59)
-    (property "Reference" "KEY61" (at 217.17 132.08 0)
+    (property "Reference" "KEY53" (at 217.17 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 217.17 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 217.17 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 217.17 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 217.17 137.16 0)
@@ -3684,7 +3769,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY61") (unit 1)
+          (reference "KEY53") (unit 1)
         )
       )
     )
@@ -3693,13 +3778,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 146.05 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8ffcad81-d513-47c9-b199-df5e1e8c63f9)
-    (property "Reference" "KEY30" (at 146.05 93.98 0)
+    (property "Reference" "KEY29" (at 146.05 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 146.05 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 146.05 99.06 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 146.05 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 146.05 99.06 0)
@@ -3716,7 +3801,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY30") (unit 1)
+          (reference "KEY29") (unit 1)
         )
       )
     )
@@ -3725,13 +3810,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 234.95 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 95466493-37fe-451e-8846-1bb16835c7e9)
-    (property "Reference" "KEY35" (at 234.95 93.98 0)
+    (property "Reference" "KEY56" (at 234.95 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 234.95 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 234.95 99.06 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 234.95 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 234.95 99.06 0)
@@ -3748,7 +3833,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY35") (unit 1)
+          (reference "KEY56") (unit 1)
         )
       )
     )
@@ -3757,13 +3842,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 252.73 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 95b4b5f4-e375-446b-b1b2-5e246a9624cb)
-    (property "Reference" "KEY36" (at 252.73 93.98 0)
+    (property "Reference" "KEY61" (at 252.73 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 252.73 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 252.73 99.06 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 252.73 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.73 99.06 0)
@@ -3780,7 +3865,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY36") (unit 1)
+          (reference "KEY61") (unit 1)
         )
       )
     )
@@ -3789,7 +3874,7 @@
   (symbol (lib_id "Diode:1N4148") (at 184.15 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9f686047-177c-43a1-a470-461383f1962f)
-    (property "Reference" "D44" (at 179.07 123.19 90)
+    (property "Reference" "D40" (at 179.07 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 175.26 125.73 90)
@@ -3812,7 +3897,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D44") (unit 1)
+          (reference "D40") (unit 1)
         )
       )
     )
@@ -3821,7 +3906,7 @@
   (symbol (lib_id "Diode:1N4148") (at 219.71 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a25e8c30-006c-45af-85f5-0b918121aa2e)
-    (property "Reference" "D58" (at 214.63 142.24 90)
+    (property "Reference" "D51" (at 214.63 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 210.82 144.78 90)
@@ -3844,7 +3929,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D58") (unit 1)
+          (reference "D51") (unit 1)
         )
       )
     )
@@ -3853,13 +3938,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 92.71 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a4c746bc-71bb-4ad8-97fe-8395debb8652)
-    (property "Reference" "KEY3" (at 92.71 55.88 0)
+    (property "Reference" "KEY11" (at 92.71 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 92.71 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 92.71 60.96 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 92.71 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 92.71 60.96 0)
@@ -3876,7 +3961,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY3") (unit 1)
+          (reference "KEY11") (unit 1)
         )
       )
     )
@@ -3885,13 +3970,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 74.93 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a5154552-da7a-476b-9560-59f10e15b775)
-    (property "Reference" "KEY50" (at 74.93 132.08 0)
+    (property "Reference" "KEY10" (at 74.93 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 74.93 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 74.93 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 74.93 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 74.93 137.16 0)
@@ -3908,7 +3993,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY50") (unit 1)
+          (reference "KEY10") (unit 1)
         )
       )
     )
@@ -3917,7 +4002,7 @@
   (symbol (lib_id "Diode:1N4148") (at 219.71 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a58c834b-4a9f-4184-9d8d-5a44a4a83cbe)
-    (property "Reference" "D34" (at 214.63 104.14 90)
+    (property "Reference" "D49" (at 214.63 104.14 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 210.82 106.68 90)
@@ -3940,7 +4025,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D34") (unit 1)
+          (reference "D49") (unit 1)
         )
       )
     )
@@ -3949,13 +4034,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 110.49 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a625361d-0da7-45a0-9758-1b6e85d1d613)
-    (property "Reference" "KEY4" (at 110.49 55.88 0)
+    (property "Reference" "KEY16" (at 110.49 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 110.49 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 110.49 60.96 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 110.49 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 110.49 60.96 0)
@@ -3972,7 +4057,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY4") (unit 1)
+          (reference "KEY16") (unit 1)
         )
       )
     )
@@ -3987,7 +4072,7 @@
     (property "Value" "SW_Push_45deg" (at 252.73 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 252.73 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 252.73 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 252.73 137.16 0)
@@ -4010,16 +4095,16 @@
     )
   )
 
-  (symbol (lib_id "Switch:SW_Push_45deg") (at 176.53 137.16 0) (unit 1)
+  (symbol (lib_id "Switch:SW_Push_45deg") (at 176.53 137.16 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a84293de-84b4-417a-8974-b899bf1be720)
-    (property "Reference" "KEY58" (at 176.53 132.08 0)
+    (property "Reference" "KEY38" (at 176.53 142.24 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SW_Push_45deg" (at 176.53 132.08 0)
+    (property "Value" "SW_Push_45deg" (at 176.53 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 176.53 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 176.53 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 176.53 137.16 0)
@@ -4036,7 +4121,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY58") (unit 1)
+          (reference "KEY38") (unit 1)
         )
       )
     )
@@ -4045,7 +4130,7 @@
   (symbol (lib_id "Diode:1N4148") (at 166.37 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a85fa5a3-43fd-4e55-afe4-ed04a2a5b8d4)
-    (property "Reference" "D31" (at 161.29 104.14 90)
+    (property "Reference" "D34" (at 161.29 104.14 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 157.48 106.68 90)
@@ -4068,7 +4153,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D31") (unit 1)
+          (reference "D34") (unit 1)
         )
       )
     )
@@ -4077,7 +4162,7 @@
   (symbol (lib_id "Diode:1N4148") (at 95.25 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a8b12d7d-f2e9-4472-a37b-08545e015c42)
-    (property "Reference" "D15" (at 90.17 85.09 90)
+    (property "Reference" "D13" (at 90.17 85.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 86.36 87.63 90)
@@ -4100,7 +4185,39 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D15") (unit 1)
+          (reference "D13") (unit 1)
+        )
+      )
+    )
+  )
+
+  (symbol (lib_id "Switch:SW_Push_45deg") (at 163.83 118.11 180) (unit 1)
+    (in_bom yes) (on_board yes) (dnp no)
+    (uuid ae6c1b90-d1e3-4415-8675-e0c5d99d3214)
+    (property "Reference" "KEY65" (at 167.64 116.84 0)
+      (effects (font (size 1.27 1.27)))
+    )
+    (property "Value" "SW_Push_45deg" (at 163.83 123.19 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 163.83 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "Datasheet" "~" (at 163.83 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "LCSC" "" (at 163.83 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "MFR. Part #" "" (at 163.83 118.11 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (pin "1" (uuid 1e3edaf1-1b5f-439f-9faf-712e597c9317))
+    (pin "2" (uuid dcaec087-b2dd-4ca7-8d76-ae1686a6e1ed))
+    (instances
+      (project "Calcite60"
+        (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
+          (reference "KEY65") (unit 1)
         )
       )
     )
@@ -4109,7 +4226,7 @@
   (symbol (lib_id "Diode:1N4148") (at 148.59 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b14dd565-17f8-4876-8808-5e5d1d1e809b)
-    (property "Reference" "D30" (at 143.51 104.14 90)
+    (property "Reference" "D29" (at 143.51 104.14 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 139.7 106.68 90)
@@ -4132,7 +4249,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D30") (unit 1)
+          (reference "D29") (unit 1)
         )
       )
     )
@@ -4141,7 +4258,7 @@
   (symbol (lib_id "Diode:1N4148") (at 113.03 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b279ce3c-ab36-479f-83af-79618055b0c1)
-    (property "Reference" "D28" (at 107.95 104.14 90)
+    (property "Reference" "D19" (at 107.95 104.14 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 104.14 106.68 90)
@@ -4164,7 +4281,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D28") (unit 1)
+          (reference "D19") (unit 1)
         )
       )
     )
@@ -4173,7 +4290,7 @@
   (symbol (lib_id "Diode:1N4148") (at 59.69 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b4c70438-79a3-4d25-b934-5ee1bc64cf53)
-    (property "Reference" "D25" (at 54.61 104.14 90)
+    (property "Reference" "D4" (at 54.61 104.14 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 50.8 106.68 90)
@@ -4196,7 +4313,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D25") (unit 1)
+          (reference "D4") (unit 1)
         )
       )
     )
@@ -4205,7 +4322,7 @@
   (symbol (lib_id "Diode:1N4148") (at 255.27 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b5b60ab6-37c5-4973-9f8e-2335f55c8ce4)
-    (property "Reference" "D48" (at 250.19 123.19 90)
+    (property "Reference" "D60" (at 250.19 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 246.38 125.73 90)
@@ -4228,7 +4345,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D48") (unit 1)
+          (reference "D60") (unit 1)
         )
       )
     )
@@ -4237,13 +4354,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 74.93 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b68c5191-1a75-4938-90fb-0f70b412b3d1)
-    (property "Reference" "KEY14" (at 74.93 74.93 0)
+    (property "Reference" "KEY7" (at 74.93 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 74.93 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 74.93 80.01 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 74.93 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 74.93 80.01 0)
@@ -4260,7 +4377,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY14") (unit 1)
+          (reference "KEY7") (unit 1)
         )
       )
     )
@@ -4269,13 +4386,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 123.19 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid b9f572fb-b1ca-41c3-8f9c-5671c8b63007)
-    (property "Reference" "KEY53" (at 123.19 132.08 0)
+    (property "Reference" "KEY21" (at 123.19 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 123.19 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 123.19 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 123.19 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 123.19 137.16 0)
@@ -4292,7 +4409,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY53") (unit 1)
+          (reference "KEY21") (unit 1)
         )
       )
     )
@@ -4301,13 +4418,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 110.49 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bc481ff0-a9b9-44b5-b87f-dfe07edc10c9)
-    (property "Reference" "KEY52" (at 110.49 132.08 0)
+    (property "Reference" "KEY20" (at 110.49 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 110.49 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 110.49 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 110.49 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 110.49 137.16 0)
@@ -4324,7 +4441,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY52") (unit 1)
+          (reference "KEY20") (unit 1)
         )
       )
     )
@@ -4333,13 +4450,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 181.61 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bf8320ad-304d-4a5b-b540-be7498052b83)
-    (property "Reference" "KEY32" (at 181.61 93.98 0)
+    (property "Reference" "KEY41" (at 181.61 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 181.61 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 181.61 99.06 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 181.61 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 181.61 99.06 0)
@@ -4356,7 +4473,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY32") (unit 1)
+          (reference "KEY41") (unit 1)
         )
       )
     )
@@ -4365,13 +4482,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 74.93 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c2b81024-ece1-4d0a-a00f-de1c4b5b89c5)
-    (property "Reference" "KEY38" (at 74.93 113.03 0)
+    (property "Reference" "KEY9" (at 74.93 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 74.93 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 74.93 118.11 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 74.93 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 74.93 118.11 0)
@@ -4388,7 +4505,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY38") (unit 1)
+          (reference "KEY9") (unit 1)
         )
       )
     )
@@ -4397,13 +4514,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 128.27 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c463ca77-a097-41b1-a8d6-f5288b55ccab)
-    (property "Reference" "KEY5" (at 128.27 55.88 0)
+    (property "Reference" "KEY22" (at 128.27 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 128.27 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 128.27 60.96 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 128.27 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 128.27 60.96 0)
@@ -4420,7 +4537,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY5") (unit 1)
+          (reference "KEY22") (unit 1)
         )
       )
     )
@@ -4429,13 +4546,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 234.95 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c4a56935-6342-416b-a8be-f2101cb769df)
-    (property "Reference" "KEY62" (at 234.95 132.08 0)
+    (property "Reference" "KEY58" (at 234.95 132.08 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 234.95 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 234.95 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 234.95 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 234.95 137.16 0)
@@ -4452,7 +4569,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY62") (unit 1)
+          (reference "KEY58") (unit 1)
         )
       )
     )
@@ -4461,7 +4578,7 @@
   (symbol (lib_id "Diode:1N4148") (at 166.37 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c6d2e576-b685-4f2c-9cdb-a141bd5b066e)
-    (property "Reference" "D7" (at 162.56 66.04 90)
+    (property "Reference" "D32" (at 162.56 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 157.48 68.58 90)
@@ -4484,7 +4601,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D7") (unit 1)
+          (reference "D32") (unit 1)
         )
       )
     )
@@ -4493,7 +4610,7 @@
   (symbol (lib_id "Diode:1N4148") (at 77.47 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c7bf2371-991e-4af6-af0d-ce63a6fb2876)
-    (property "Reference" "D38" (at 72.39 123.19 90)
+    (property "Reference" "D10" (at 72.39 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 68.58 125.73 90)
@@ -4516,31 +4633,31 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D38") (unit 1)
+          (reference "D10") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Switch:SW_Push_45deg") (at 146.05 118.11 0) (unit 1)
+  (symbol (lib_id "Switch:SW_Push_45deg") (at 140.97 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid cc666e3b-7be4-45e2-89c0-ff985b3d8c0f)
-    (property "Reference" "KEY42" (at 146.05 113.03 0)
+    (property "Reference" "KEY30" (at 140.97 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SW_Push_45deg" (at 146.05 113.03 0)
+    (property "Value" "SW_Push_45deg" (at 140.97 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 146.05 118.11 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 140.97 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "~" (at 146.05 118.11 0)
+    (property "Datasheet" "~" (at 140.97 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "LCSC" "" (at 146.05 118.11 0)
+    (property "LCSC" "" (at 140.97 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "MFR. Part #" "" (at 146.05 118.11 0)
+    (property "MFR. Part #" "" (at 140.97 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "1" (uuid cb0e6810-b5b4-493b-aa79-b5e9c9162214))
@@ -4548,7 +4665,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY42") (unit 1)
+          (reference "KEY30") (unit 1)
         )
       )
     )
@@ -4557,7 +4674,7 @@
   (symbol (lib_id "Diode:1N4148") (at 59.69 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ccaf4fb2-9579-465e-932e-5bd924af4e44)
-    (property "Reference" "D1" (at 55.88 66.04 90)
+    (property "Reference" "D2" (at 55.88 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 50.8 68.58 90)
@@ -4580,7 +4697,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D1") (unit 1)
+          (reference "D2") (unit 1)
         )
       )
     )
@@ -4589,7 +4706,7 @@
   (symbol (lib_id "Diode:1N4148") (at 184.15 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d215ba93-d1d8-45e6-82c7-5c1903654fbc)
-    (property "Reference" "D8" (at 180.34 66.04 90)
+    (property "Reference" "D37" (at 180.34 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 175.26 68.58 90)
@@ -4612,7 +4729,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D8") (unit 1)
+          (reference "D37") (unit 1)
         )
       )
     )
@@ -4621,7 +4738,7 @@
   (symbol (lib_id "Diode:1N4148") (at 95.25 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d728ab8c-4f7d-41d0-8a6e-446bac03aa6b)
-    (property "Reference" "D27" (at 90.17 104.14 90)
+    (property "Reference" "D14" (at 90.17 104.14 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 86.36 106.68 90)
@@ -4644,7 +4761,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D27") (unit 1)
+          (reference "D14") (unit 1)
         )
       )
     )
@@ -4653,13 +4770,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 57.15 99.06 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d8772a13-c55f-4b63-b775-652b29aec056)
-    (property "Reference" "KEY25" (at 57.15 93.98 0)
+    (property "Reference" "KEY3" (at 57.15 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 57.15 93.98 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 57.15 99.06 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 57.15 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 99.06 0)
@@ -4676,7 +4793,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY25") (unit 1)
+          (reference "KEY3") (unit 1)
         )
       )
     )
@@ -4685,7 +4802,7 @@
   (symbol (lib_id "Diode:1N4148") (at 201.93 86.36 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid daf22746-733f-4418-ab9b-da49786d3bcb)
-    (property "Reference" "D21" (at 196.85 85.09 90)
+    (property "Reference" "D43" (at 196.85 85.09 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 193.04 87.63 90)
@@ -4708,7 +4825,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D21") (unit 1)
+          (reference "D43") (unit 1)
         )
       )
     )
@@ -4717,13 +4834,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 181.61 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid dd3df16c-57f5-4d26-92a8-53608e2c576f)
-    (property "Reference" "KEY8" (at 181.61 55.88 0)
+    (property "Reference" "KEY39" (at 181.61 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 181.61 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 181.61 60.96 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 181.61 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 181.61 60.96 0)
@@ -4740,7 +4857,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY8") (unit 1)
+          (reference "KEY39") (unit 1)
         )
       )
     )
@@ -4749,7 +4866,7 @@
   (symbol (lib_id "Diode:1N4148") (at 166.37 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e1ee2b69-6d46-49d5-a11c-dd37e2a2a052)
-    (property "Reference" "D43" (at 161.29 123.19 90)
+    (property "Reference" "D35" (at 161.29 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 157.48 125.73 90)
@@ -4772,7 +4889,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D43") (unit 1)
+          (reference "D35") (unit 1)
         )
       )
     )
@@ -4781,13 +4898,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 92.71 80.01 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e1fa66d8-1d85-44c4-8111-5a4a2888d563)
-    (property "Reference" "KEY15" (at 92.71 74.93 0)
+    (property "Reference" "KEY12" (at 92.71 74.93 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 92.71 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 92.71 80.01 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 92.71 80.01 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 92.71 80.01 0)
@@ -4804,7 +4921,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY15") (unit 1)
+          (reference "KEY12") (unit 1)
         )
       )
     )
@@ -4813,7 +4930,7 @@
   (symbol (lib_id "Diode:1N4148") (at 201.93 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e369fb3c-bf58-4f7d-bcc0-cd97a3afbdd4)
-    (property "Reference" "D33" (at 196.85 104.14 90)
+    (property "Reference" "D44" (at 196.85 104.14 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 193.04 106.68 90)
@@ -4836,22 +4953,22 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D33") (unit 1)
+          (reference "D44") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Switch:SW_Push_45deg") (at 140.97 137.16 0) (unit 1)
+  (symbol (lib_id "Switch:SW_Push_45deg") (at 140.97 137.16 180) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e5d013fb-c527-4ddd-8041-3023e36f0674)
-    (property "Reference" "KEY54" (at 137.16 138.43 0)
+    (property "Reference" "KEY26" (at 144.78 135.89 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SW_Push_45deg" (at 140.97 132.08 0)
+    (property "Value" "SW_Push_45deg" (at 140.97 142.24 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 140.97 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 140.97 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 140.97 137.16 0)
@@ -4868,7 +4985,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY54") (unit 1)
+          (reference "KEY26") (unit 1)
         )
       )
     )
@@ -4877,7 +4994,7 @@
   (symbol (lib_id "Diode:1N4148") (at 148.59 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e699667f-1d8a-4eee-9e95-c556bfe22f65)
-    (property "Reference" "D54" (at 143.51 142.24 90)
+    (property "Reference" "D31" (at 143.51 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 139.7 144.78 90)
@@ -4900,7 +5017,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D54") (unit 1)
+          (reference "D31") (unit 1)
         )
       )
     )
@@ -4909,13 +5026,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 234.95 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e9511563-27ab-4e7a-8a97-4f19b9dc14d9)
-    (property "Reference" "KEY11" (at 234.95 55.88 0)
+    (property "Reference" "KEY54" (at 234.95 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 234.95 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 234.95 60.96 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 234.95 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 234.95 60.96 0)
@@ -4932,22 +5049,22 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY11") (unit 1)
+          (reference "KEY54") (unit 1)
         )
       )
     )
   )
 
-  (symbol (lib_id "Switch:SW_Push_45deg") (at 181.61 137.16 180) (unit 1)
+  (symbol (lib_id "Switch:SW_Push_45deg") (at 181.61 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e9531174-7e91-45d7-b365-af5e4e97153d)
-    (property "Reference" "KEY59" (at 185.42 135.89 0)
+    (property "Reference" "KEY43" (at 177.8 138.43 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "SW_Push_45deg" (at 181.61 142.24 0)
+    (property "Value" "SW_Push_45deg" (at 181.61 132.08 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 181.61 137.16 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 181.61 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 181.61 137.16 0)
@@ -4964,7 +5081,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY59") (unit 1)
+          (reference "KEY43") (unit 1)
         )
       )
     )
@@ -4973,13 +5090,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 163.83 60.96 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e9ec4175-03b8-40b2-a218-68d2277781d6)
-    (property "Reference" "KEY7" (at 163.83 55.88 0)
+    (property "Reference" "KEY33" (at 163.83 55.88 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 163.83 55.88 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 163.83 60.96 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 163.83 60.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 163.83 60.96 0)
@@ -4996,7 +5113,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY7") (unit 1)
+          (reference "KEY33") (unit 1)
         )
       )
     )
@@ -5005,7 +5122,7 @@
   (symbol (lib_id "Diode:1N4148") (at 113.03 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid eb54131b-a080-4ca7-81c9-a6dcee5b494c)
-    (property "Reference" "D52" (at 107.95 142.24 90)
+    (property "Reference" "D21" (at 107.95 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 104.14 144.78 90)
@@ -5028,7 +5145,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D52") (unit 1)
+          (reference "D21") (unit 1)
         )
       )
     )
@@ -5037,7 +5154,7 @@
   (symbol (lib_id "Diode:1N4148") (at 201.93 143.51 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid ec0d2960-0ffb-4bae-8d8a-744dddcdd6c9)
-    (property "Reference" "D57" (at 196.85 142.24 90)
+    (property "Reference" "D46" (at 196.85 142.24 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 193.04 144.78 90)
@@ -5060,7 +5177,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D57") (unit 1)
+          (reference "D46") (unit 1)
         )
       )
     )
@@ -5069,7 +5186,7 @@
   (symbol (lib_id "Diode:1N4148") (at 255.27 105.41 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f0d8ff14-0c92-42e0-b2c4-a39660e8a447)
-    (property "Reference" "D36" (at 250.19 104.14 90)
+    (property "Reference" "D59" (at 250.19 104.14 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 246.38 106.68 90)
@@ -5092,7 +5209,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D36") (unit 1)
+          (reference "D59") (unit 1)
         )
       )
     )
@@ -5101,7 +5218,7 @@
   (symbol (lib_id "Diode:1N4148") (at 219.71 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f1a1e501-1131-4b8a-98de-76421ceb7558)
-    (property "Reference" "D10" (at 214.63 66.04 90)
+    (property "Reference" "D47" (at 214.63 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 210.82 68.58 90)
@@ -5124,7 +5241,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D10") (unit 1)
+          (reference "D47") (unit 1)
         )
       )
     )
@@ -5133,7 +5250,7 @@
   (symbol (lib_id "Diode:1N4148") (at 237.49 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f34cbff9-2c34-4c4d-ab56-512878b5dbef)
-    (property "Reference" "D47" (at 232.41 123.19 90)
+    (property "Reference" "D55" (at 232.41 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 228.6 125.73 90)
@@ -5156,7 +5273,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D47") (unit 1)
+          (reference "D55") (unit 1)
         )
       )
     )
@@ -5165,7 +5282,7 @@
   (symbol (lib_id "Diode:1N4148") (at 95.25 67.31 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f4c47903-3b5c-43c8-b9ab-cfd91ff49399)
-    (property "Reference" "D3" (at 91.44 66.04 90)
+    (property "Reference" "D12" (at 91.44 66.04 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 86.36 68.58 90)
@@ -5188,7 +5305,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D3") (unit 1)
+          (reference "D12") (unit 1)
         )
       )
     )
@@ -5197,13 +5314,13 @@
   (symbol (lib_id "Switch:SW_Push_45deg") (at 57.15 118.11 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f8a27833-437a-44ee-afa6-5905e1f84207)
-    (property "Reference" "KEY37" (at 57.15 113.03 0)
+    (property "Reference" "KEY4" (at 57.15 113.03 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "SW_Push_45deg" (at 57.15 113.03 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT" (at 57.15 118.11 0)
+    (property "Footprint" "key-switches:SW_Kailh_Choc_V1_THT_nSilk" (at 57.15 118.11 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 57.15 118.11 0)
@@ -5220,7 +5337,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "KEY37") (unit 1)
+          (reference "KEY4") (unit 1)
         )
       )
     )
@@ -5229,7 +5346,7 @@
   (symbol (lib_id "Diode:1N4148") (at 59.69 124.46 90) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f93f0421-11ab-4f29-9520-f9414be76772)
-    (property "Reference" "D37" (at 54.61 123.19 90)
+    (property "Reference" "D5" (at 54.61 123.19 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Value" "1N4148" (at 50.8 125.73 90)
@@ -5252,7 +5369,7 @@
     (instances
       (project "Calcite60"
         (path "/717fb49e-fed7-4c0b-8814-f6ed14872a26/cc044381-41dd-41b3-a065-cac80f2529df"
-          (reference "D37") (unit 1)
+          (reference "D5") (unit 1)
         )
       )
     )
