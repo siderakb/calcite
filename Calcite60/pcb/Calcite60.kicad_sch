@@ -8,7 +8,7 @@
     (title "Calcite60 Keyboard")
     (rev "2.0")
     (company "SideraKB")
-    (comment 1 "MIT License (Open source hardware)")
+    (comment 1 "Open source hardware, CERN-OHL-P v2")
     (comment 2 "Kailh Choc V1 (PG1350) Low Profile Switches")
   )
 

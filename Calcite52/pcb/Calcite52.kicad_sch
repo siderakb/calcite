@@ -7,7 +7,7 @@
   (title_block
     (title "Calcite52 Keyboard")
     (rev "1.0")
-    (comment 1 "MIT License (Open source hardware)")
+    (comment 1 "Open source hardware, CERN-OHL-P v2")
   )
 
   (lib_symbols
