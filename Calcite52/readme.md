@@ -37,7 +37,7 @@ PCB online preview avaliable [here](https://kicanvas.org/?github=https%3A%2F%2Fg
 ## Case
 
 - CNC: Designed using [onshape](https://cad.onshape.com/documents/40c7e2089f3d168efe6af68a/w/3670640f6bf03c896decab1c/e/fe064372e5ac08dff53a3881?renderMode=0&uiState=65b3d52ba4a899578972f582). I order aluminum 6061 + bead blast + anodized from PCBWay around 60 USD (June 2023).
-- 3D Printing: Designed using FreeCAD.
+- 3D Printing: Designed using FreeCAD. Please note that the 3D printed casing will bend easily and is not recommended.
 
 ## Firmware
 
