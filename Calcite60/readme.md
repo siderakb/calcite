@@ -33,3 +33,7 @@ Online preview available [here](https://kicanvas.org/?github=https%3A%2F%2Fgithu
 - Castellated pads: No
 - Edge card connectors: No
 - Plated board edge: No
+
+## Screw
+
+- 4* M2x2~4, 90° flat head
